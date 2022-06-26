@@ -1,0 +1,9 @@
+.App {
+  background-color: #f5f5f5;
+}
+
+.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head,
+.css-og52vs-MuiTableCell-root.MuiTableCell-head {
+  background-color: #efc427 !important;
+  color: rgb(12, 12, 12) !important;
+}
